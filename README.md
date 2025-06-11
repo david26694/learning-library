@@ -1,16 +1,16 @@
 # Coding
 
-## Meta
+## Code quality
 
 * *Refactoring*, Martin Fowler
 * *The Art of Readable Code*, Dustin Boswell and Trevor Foucher
-* [calmcode](https://calmcode.io/) - a collection of tutorials on data science tools
-* [koaning](https://koaning.io/posts/) - a collection of posts on data science tools
-* [Max halford](https://maxhalford.github.io/)
-* [🚀 TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM&t=3s&ab_channel=DevTernityConference)
+* [code smells](https://www.youtube.com/watch?v=c-_PUYuwc2o&ab_channel=AMEEscuela) - a talk on code smells and how to fix them
+
+
+## Git
+
 * [oy my zsh git](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index)
 * [getting the most out of git](https://www.youtube.com/watch?v=RwLxCk6bDnY&ab_channel=PositPBC)
-* [code smells](https://www.youtube.com/watch?v=c-_PUYuwc2o&ab_channel=AMEEscuela) - a talk on code smells and how to fix them
 
 
 ## Design patterns
@@ -26,11 +26,24 @@
 * [Raymond Hettinger](https://www.youtube.com/watch?v=OSGv2VnC0go&list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA&ab_channel=NextDayVideo)
 * [untitled 12](https://www.youtube.com/watch?v=yXGCKqo5cEY&t=1137s&ab_channel=PyData)
 * [Arjan codes](https://www.youtube.com/@ArjanCodes) - a collection of videos on Python and data science tools
-* *python testing with pytest*, Brian Okken
 * [James Powell: Advanced Metaphors in Coding with Python | PyData Berlin 2017](https://www.youtube.com/watch?v=R2ipPgrWypI&ab_channel=PyData)
 * [James Powell - Whatever I Can do to Entertain You in 30 Minutes | PyData London 2022](https://www.youtube.com/watch?v=-z2eqLwVmzw&ab_channel=PyData)
 * [James Powell - Are generator-coroutines really the answer? | PyData London 2024](https://www.youtube.com/watch?v=Knth0LhQnC0&ab_channel=PyData)
+
+
+## Unit testing
+
+* [🚀 TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM&t=3s&ab_channel=DevTernityConference)
+* *python testing with pytest*, Brian Okken
 * [Unit Testing for Data Scientists - Hanna Torrence](https://www.youtube.com/watch?v=Da-FL_1i6ps&ab_channel=PyData)
+
+
+## Data Science tools
+
+* [calmcode](https://calmcode.io/) - a collection of tutorials on data science tools
+* [koaning](https://koaning.io/posts/) - a collection of posts on data science tools
+* [Max halford](https://maxhalford.github.io/)
+* [fbruzzesi](https://fbruzzesi.github.io/blog/)
 
 
 # ML
@@ -94,6 +107,7 @@ Most of this content is from [Alex deng's blog](https://alexdeng.github.io/):
 * [Tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 * [Modern pandas](https://tomaugspurger.net/posts/modern-1-intro/)
 * [polars](https://docs.pola.rs/user-guide/migration/pandas/#pipe-littering)
+
 
 # Optimisation
 
