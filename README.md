@@ -100,6 +100,7 @@ Most of this content is from [Alex deng's blog](https://alexdeng.github.io/):
 * [Metric Decomposition in A/B Tests](https://alexdeng.github.io/public/files/kdd2024-decomp.pdf)
 * [Connections Between the Delta Method, OLS and CUPED, Illustrated](https://srome.github.io/Connections-Between-the-Delta-Method-OLS-and-CUPED-Illustrated/)
 * [Towards optimal experimentation in online systems ](https://www.unofficialgoogledatascience.com/2024/04/towards-optimal-experimentation-in.html)
+* [Evaluating the Surrogate Index as a Decision-Making Tool Using 200 A/B Tests at Netflix](https://arxiv.org/html/2311.11922v2)
 
 
 # Data
