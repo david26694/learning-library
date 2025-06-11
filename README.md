@@ -7,12 +7,6 @@
 * [code smells](https://www.youtube.com/watch?v=c-_PUYuwc2o&ab_channel=AMEEscuela) - a talk on code smells and how to fix them
 
 
-## Git
-
-* [oy my zsh git](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index)
-* [getting the most out of git](https://www.youtube.com/watch?v=RwLxCk6bDnY&ab_channel=PositPBC)
-
-
 ## Design patterns
 
 * *Head First Design Patterns*, Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
@@ -36,6 +30,12 @@
 * [🚀 TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM&t=3s&ab_channel=DevTernityConference)
 * *python testing with pytest*, Brian Okken
 * [Unit Testing for Data Scientists - Hanna Torrence](https://www.youtube.com/watch?v=Da-FL_1i6ps&ab_channel=PyData)
+
+
+## Git
+
+* [oy my zsh git](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index)
+* [getting the most out of git](https://www.youtube.com/watch?v=RwLxCk6bDnY&ab_channel=PositPBC)
 
 
 ## Data Science tools
