@@ -70,6 +70,7 @@ Stats blogs:
 * [Scott Rome](https://srome.github.io/)
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 * [Carlos Gil Bellosta](https://datanalytics.com/)
+* [Zach Flynn](https://zachlog.com/)
 
 
 ## Bayes
@@ -108,6 +109,8 @@ Most of this content is from [Alex deng's blog](https://alexdeng.github.io/):
 * [Tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 * [Modern pandas](https://tomaugspurger.net/posts/modern-1-intro/)
 * [polars](https://docs.pola.rs/user-guide/migration/pandas/#pipe-littering)
+* *Designing Data-Intensive Applications*, Martin Kleppmann
+* *R for Data Science*, Hadley Wickham, Garrett Grolemund
 
 
 # Optimisation
