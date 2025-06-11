@@ -12,10 +12,12 @@
 * [getting the most out of git](https://www.youtube.com/watch?v=RwLxCk6bDnY&ab_channel=PositPBC)
 * [code smells](https://www.youtube.com/watch?v=c-_PUYuwc2o&ab_channel=AMEEscuela) - a talk on code smells and how to fix them
 
+
 ## Design patterns
 
 * *Head First Design Patterns*, Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
 * *Architecture Patterns with Python*, Harry Percival, Bob Gregory
+
 
 ## Python
 
@@ -25,6 +27,10 @@
 * [untitled 12](https://www.youtube.com/watch?v=yXGCKqo5cEY&t=1137s&ab_channel=PyData)
 * [Arjan codes](https://www.youtube.com/@ArjanCodes) - a collection of videos on Python and data science tools
 * *python testing with pytest*, Brian Okken
+* [James Powell: Advanced Metaphors in Coding with Python | PyData Berlin 2017](https://www.youtube.com/watch?v=R2ipPgrWypI&ab_channel=PyData)
+* [James Powell - Whatever I Can do to Entertain You in 30 Minutes | PyData London 2022](https://www.youtube.com/watch?v=-z2eqLwVmzw&ab_channel=PyData)
+* [James Powell - Are generator-coroutines really the answer? | PyData London 2024](https://www.youtube.com/watch?v=Knth0LhQnC0&ab_channel=PyData)
+* [Unit Testing for Data Scientists - Hanna Torrence](https://www.youtube.com/watch?v=Da-FL_1i6ps&ab_channel=PyData)
 
 
 # ML
@@ -41,9 +47,6 @@
 * [ML course AI](https://mlcourse.ai/book/index.html)
 * [Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * [Tree Boosting With XGBoost - Why Does XGBoost Win "Every" Machine Learning Competition?](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2433761/16128_FULLTEXT.pdf?sequence=1&isAllowed=y)
-
-
-
 
 
 # Statistics
@@ -91,3 +94,7 @@ Most of this content is from [Alex deng's blog](https://alexdeng.github.io/):
 * [Tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 * [Modern pandas](https://tomaugspurger.net/posts/modern-1-intro/)
 * [polars](https://docs.pola.rs/user-guide/migration/pandas/#pipe-littering)
+
+# Optimisation
+
+* *Model Building in Mathematical Programming*, H. Paul Williams
